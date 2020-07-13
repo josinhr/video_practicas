@@ -1,0 +1,2 @@
+[2020-07-13 20:47:48.155] [sharedprocess] [info] main {"machineId":"8a8a7d438bd5270c7d77072cd306e84134eea2ee96cec69f13c7e84c2f8bb23e","windowId":2}
+[2020-07-13 20:47:48.191] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/media/josinhr/DATOS UBUNTU/CODE/video_practicas/User/snippets'
